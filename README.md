@@ -25,3 +25,6 @@ After rigorous walkthrough and much reasoning, we selected and implemented three
 # Evaluation:
 Precision is important in this context because it ensures the reliability of our model when predicting mutual fund ratings, helping avoid serious errors that could mislead investors or impact trust.
 
+## Dataset Source
+https://www.kaggle.com/datasets/stefanoleone992/european-funds-dataset-from-morningstar
+
